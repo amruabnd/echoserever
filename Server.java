@@ -45,7 +45,7 @@ catch (Exception err)
 
 	public static void main(String[] args)
 	{
-		EchoServer s = new EchoServer(9999);
+		Server s = new Server(9999);
 		s.serve();
 	}
 
