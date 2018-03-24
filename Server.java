@@ -3,7 +3,7 @@ import java.net.*;
 
 public class Server
 {
-	public EchoServer(int portnum)
+	public Server(int portnum)
 {
 		try
 		{
